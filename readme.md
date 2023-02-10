@@ -10,9 +10,9 @@
   -- 
   -->
 
-<h1 align="center">Hi 👋, I'm Jimmy Mutuku</h1>
+<h1 align="center">Hello 👋, I'm Jimmy Mutuku</h1>
 <!-- TODO: Replace with your intro text -->
-<h3 align="center">I have recently completed my studies at Moringa and I am eager to begin my first internship and gain practical experience.</h3>
+<h3 align="center">I have recently completed my software engineering studies and I am eager to begin my first internship and gain practical experience.</h3>
 
 <br/>
 
@@ -24,7 +24,7 @@
   <a href="https://www.linkedin.com/in/jimutuku/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Jente Rosseel's LinkedIn" /></a> 
   <span>&nbsp;</span>
   <!-- Twitter -->
-  <a href="https://twitter.com/essaywriters01" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Jente Rosseel's Twitter" /></a> 
+  <a href="#" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Jente Rosseel's Twitter" /></a> 
   <span>&nbsp;</span>
   <!-- Stack overflow -->
   <a href="https://stackoverflow.com/users/20556198/sir-jim" target="blank"><img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" alt="Jente Rosseel's Stack Overflow" /></a> 
